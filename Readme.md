@@ -32,22 +32,22 @@ La siguiente lista contiene las categorías principales del Wiki:
 - [Mapas](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Mapas)
 - [Gráficas y Presentaciones](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Gr%C3%A1ficas-y-Presentaciones)
 - [Desarrollo de Juegos](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Desarrollo-de-Juegos)
-- [Hojas de Referencia (*Cheat Sheets*)](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Hojas-de-Referencia-JavaScript)
+- [Hojas de Referencia ( *Cheat Sheets* )](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Hojas-de-Referencia-JavaScript)
 - [Otros](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Otros-JavaScript)
 
 ## HTML ##
 
 - [Plantillas](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Plantillas)
 - [Canvas](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Canvas)
-- [Hojas de Referencia (*Cheat Sheets*)](https://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Hojas-de-Referencia-HTML)
+- [Hojas de Referencia ( *Cheat Sheets* )](https://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Hojas-de-Referencia-HTML)
 - [Otros](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Otros-HTML)
 
 ## Imágenes ##
 
 - [Imágenes Gratuitas](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Im%C3%A1genes-Gratuitas)
-- [Imágenes Adaptables (*Responsive Images*)](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Im%C3%A1genes-Adaptables)
+- [Imágenes Adaptables ( *Responsive Images* )](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Im%C3%A1genes-Adaptables)
 - [Editores en Línea](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Editores-en-L%C3%ADnea)
-- [Imágenes de Prueba (*Placeholders*)](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Im%C3%A1genes-de-Prueba)
+- [Imágenes de Prueba ( *Placeholders* )](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Im%C3%A1genes-de-Prueba)
 - [Compresores](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Compresores-de-Im%C3%A1genes)
 - [Otros](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Otros-Im%C3%A1genes)
 
@@ -71,9 +71,9 @@ La siguiente lista contiene las categorías principales del Wiki:
 ## Desarrollo Web ##
 
 - [Editores](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Editores)
-- [Entornos de Desarrollo Integrado (*Integrated Development Environments (IDE)*)](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Entornos-de-Desarrollo-Integrado)
+- [Entornos de Desarrollo Integrado ( *Integrated Development Environments (IDE)* )](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Entornos-de-Desarrollo-Integrado)
 - [Compartir Código](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Compartir-C%C3%B3digo)
-- [Hojas de Referencia (*Cheat Sheets*)](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Hojas-de-Referencia-Desarrollo)
+- [Hojas de Referencia ( *Cheat Sheets* )](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Hojas-de-Referencia-Desarrollo)
 - [Otros](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Otros-Desarrollo-Web)
 
 ## CSS ##
@@ -84,22 +84,22 @@ La siguiente lista contiene las categorías principales del Wiki:
 - [Compresores](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Compresores-CSS)
 - [Botones CSS](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Botones-CSS)
 - [Prefijos CSS](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Prefijos-CSS)
-- [Hojas de Referencia (*Cheat Sheets*)](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Hojas-de-Referencia-CSS)
+- [Hojas de Referencia ( *Cheat Sheets* )](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Hojas-de-Referencia-CSS)
 - [Otros](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Otros-CSS)
 
 ## PHP ##
 
-- [Hojas de Referencia (*Cheat Sheets*)](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Hojas-de-Referencia-PHP)
+- [Hojas de Referencia ( *Cheat Sheets* )](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Hojas-de-Referencia-PHP)
 - [Otros](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Otros-PHP)
 
 ## Python ##
 
-- [Hojas de Referencia (*Cheat Sheets*)](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Hojas-de-Referencia-Python)
+- [Hojas de Referencia ( *Cheat Sheets* )](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Hojas-de-Referencia-Python)
 - [Otros](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Otros-Python)
 
 ## Ruby On Rails ##
 
-- [Hojas de Referencia (*Cheat Sheets*)](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Hojas-de-Referencia-Ruby-On-Rails)
+- [Hojas de Referencia ( *Cheat Sheets* )](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Hojas-de-Referencia-Ruby-On-Rails)
 - [Otros](https://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Otros-Ruby-On-Rails)
 
 ## Desarrollo Móvil ##
@@ -118,7 +118,7 @@ La siguiente lista contiene las categorías principales del Wiki:
 - [Blogs sobre WordPress](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Blogs-sobre-WordPress)
 - [Foros de Ayuda](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Foros-de-Ayuda-WordPress)
 - [Tutoriales](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Tutoriales-WordPress)
-- [Hojas de Referencia (*Cheat Sheets*)](https://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Hojas-de-Referencia-WordPress)
+- [Hojas de Referencia ( *Cheat Sheets* )](https://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Hojas-de-Referencia-WordPress)
 - [Otros](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Otros-WordPress)
 
 ## [Otros Recursos y Utilidades](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Otros-Recursos-y-Utilidades) ##
