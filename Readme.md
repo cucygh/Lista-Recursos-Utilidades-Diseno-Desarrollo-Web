@@ -5,7 +5,7 @@ Este repositorio de enlaces nace en base a los siguientes artículos de mi blog,
 
 - [74 sitios web útiles para desarrolladores y diseñadores web](http://www.trazos-web.com/2011/05/23/74-sitios-web-utiles-para-desarrolladores-y-disenadores-web/).
 - [95 recursos y utilidades para diseño y desarrollo web](http://www.trazos-web.com/2011/10/18/95-recursos-y-utilidades-para-diseno-y-desarrollo-web/). 
-- 179 utilidades y recursos para diseño y desarrollo web.
+- [179 utilidades y recursos para diseño y desarrollo web](http://www.trazos-web.com/2013/02/11/179-utilidades-y-recursos-para-diseno-y-desarrollo-web/).
 
 Este repositorio será revisado periódicamente y actualizado contínuamente.
 
