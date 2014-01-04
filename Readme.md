@@ -56,7 +56,6 @@ La siguiente lista contiene las categorías principales del Wiki:
 - [Maquetación](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Maquetaci%C3%B3n)
 - [Patrones y Backgrounds](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Patrones-y-Backgrounds)
 - [Paletas de Colores](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Paletas-de-Colores)
-- [Pruebas](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Pruebas)
 - [Otros](http://github.com/djdiego88/Lista-Recursos-Utilidades-Diseno-Desarrollo-Web/wiki/Otros-Dise%C3%B1o)
 
 
